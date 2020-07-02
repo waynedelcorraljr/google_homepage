@@ -1,0 +1,1 @@
+clone the google homepage to practice skills in git and pushing to GitHub when finally finished with the clone.
